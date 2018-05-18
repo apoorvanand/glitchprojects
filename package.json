@@ -1,0 +1,24 @@
+{
+  "name": "algolia-product-search",
+  "version": "0.0.1",
+  "description": "A glitchy demo of using Algolia's instantsearch.js to search for products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": "https://github.com/algolia/instantsearch.js/tree/master/docs/examples/e-commerce"
+  },
+  "license": "MIT",
+  "keywords": [
+    "search",
+    "algolia",
+    "instantsearch"
+  ]
+}
